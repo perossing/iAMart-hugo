@@ -1,11 +1,14 @@
 {{define "main"}}
 
+<!-- articles single template -->
 
-    <span><a href="/articles">return to main articles page</a></span>
+    <p><a href="/articles"><span class="glyphicon glyphicon-arrow-left"></span>return to main articles page</a></p>
     <h1>{{lower .Title}}</h1>
     <h2>{{.Params.subtitle}}</h2>
     <img src="{{.Params.picture}}"/>
     <p class="author">author: {{.Params.author}}</p>
     <div class="article-text">{{.Content}}</div>
+
+    <div class="pin-footer"></div>
 
 {{end}}

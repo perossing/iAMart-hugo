@@ -7,3 +7,8 @@ theme = "iAMart"
     name = "Home"
     url  = "/"
     weight = 1
+
+[[menu.nav]]
+    name = "art supply info"
+    url  = "/articles"
+    weight = 5

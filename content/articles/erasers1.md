@@ -1,7 +1,7 @@
 ---
 title: "All about Erasers - part 1"
 subtitle: "pink and white erasers"
-picture: "pink-white.erasers.jpg"
+picture: "/images/pink-white-erasers.jpg"
 author: "David Freas"
 category: "drawing"
 ---

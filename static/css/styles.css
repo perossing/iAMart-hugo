@@ -225,6 +225,12 @@ strong, .article-title a {
   font-size: 0.8em;
 }
 
+.glyphicon-arrow-left {
+  color: #DE1B25;
+  font-size: 0.75em;
+  margin-right: 0.75em;
+}
+
 .inline-cart-icon {
   margin: 0 0.2em;
 }
