@@ -1,0 +1,9 @@
+
+
+<div class="article-titles">
+        {{ range where .Site.Pages "Type" "article"}}
+        <span class="article-title">
+            <a href="{{.URL}}">{{title .Title}}</a>
+        </span>
+        {{ end }}
+</div>

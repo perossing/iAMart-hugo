@@ -21,3 +21,11 @@
             {{partial "statedivider" . }}
 
 {{end}}
+
+
+
+<!-- to include excerpts on articles list page: -->
+
+<p>{{truncate 100 .Summary}}
+    <a href="{{.URL}}" class="link-to-more">read more...</a>
+<p>
