@@ -1,0 +1,23 @@
+<!-- possibly use something like this for state headings to distinguish first listing? -->
+
+
+{{ range $index, $element := first .Site.Params.frontpageposts (where .Site.Pages "Section" "post") }} 
+    {{ if (eq $index 0) }}
+        {{ .Render "card-8" }}
+    {{ else }}
+        {{ .Render "card-12" }}
+    {{ end }} 
+{{ end }}
+
+
+<!-- this works, but the conditional variable is hard coded: -->
+
+{{ if (eq .Params.state "Quebec") }}
+
+            {{partial "stateheading" . }}
+
+            {{else}}
+
+            {{partial "statedivider" . }}
+
+{{end}}

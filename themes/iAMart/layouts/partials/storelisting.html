@@ -1,0 +1,20 @@
+<section class="store-listing col-sm-4">
+
+    <!-- Need an if here to set state-name class for first store in each state and no-state-name class for the rest. See snippet file in partials-->
+
+    <span class="state-name">{{.Params.state}}</span>
+    <br />
+    <span class="city">{{.Params.city}}</span>
+    <br />
+    <span class="store-name">{{.Params.store}}</span>
+    <br />
+    {{.Params.address}}
+    <br />
+    <span class="phone">{{.Params.phone}}</span>
+    <br />
+    <a href="{{.Params.weburl}}" target="_blank">{{.Params.website}}</a>
+    {{ if eq .Params.ecommerce "true"}}
+        <div class="glyphicon glyphicon-shopping-cart"></div>
+    {{end}}
+
+</section>

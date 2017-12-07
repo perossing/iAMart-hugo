@@ -1,0 +1,24 @@
+<!-- HTML head and opening body tag in header -->
+
+{{ $navMenu := .Site.Menus.nav }} {{ partial "header" (dict "navMenu" $navMenu)}}
+
+<div class="page-container">
+
+    {{ range .Data.Pages }}
+        {{if eq .Type "index" }}
+            <div class="page-content">
+                <h1>{{.Title}}</h1>
+                <div>{{.Content}}</div>
+            </div>
+        {{end}}
+    {{ end }}
+
+</div>
+
+<div class="image-container home-image"></div>
+
+{{partial "footer"}}
+
+</body>
+
+</html>

@@ -1,0 +1,313 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Assistant', sans-serif;
+  color: #111;
+  /* box-sizing: border-box;
+  border: 1px solid pink; */
+}
+
+.header {
+  position: fixed;
+  width: 100%;
+  background: #fff;
+  z-index: 10;
+  box-shadow: 1px 1px 30px #dde;
+  height: 265px;
+}
+
+.logo {
+  margin: 20px;
+}
+
+.navbar {
+  float: right;
+  margin: 25px 5px;
+}
+
+.navbar li {
+  font-size: 1.25em;
+  color: #2A3086;
+  margin-right: 25px;
+  list-style-type: none;
+  float: left;
+}
+
+.navbar a {
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  color: #DE1B25;
+}
+
+/* ***** 100vh and marging setings for page-contatiner, image-containers and footer are temporary fix for footer & pic placement ***** */
+
+.page-container {
+  padding-top: 275px;
+  max-height: 100vh;
+}
+
+h1 {
+  font-size: 2.1em;
+  font-weight: 700;
+  color: #2A3086;
+  margin: 1em 0 0.75em 0;
+}
+
+.iamart {
+  color: #2A3086;
+  font-weight: 700;
+  padding: 0 2px;
+  font-size: 1.1em;
+}
+.am {
+  color: #DE1B25;
+  text-transform: uppercase;
+  font-size: 0.98em;
+}
+
+.contrast-text {
+  color: #2A3086;
+  font-weight: 700;
+}
+
+strong {
+  color: #2A3086;
+  font-weight: 700;
+}
+
+.page-content {
+  display: block;
+  margin: 0 auto;
+  width: 90%;
+}
+
+.page-content p,
+.page-content ul {
+  font-size: 1.2em;
+  font-weight: 200;
+  margin: 1em 10% 1em 2%;
+}
+.page-content ul {
+  margin-left: 2.25em;
+}
+
+.locationBtn {
+  display: block;
+  padding: 8px 15px 10px 15px;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  margin: 40px 0;
+  background: #337AB7;
+}
+
+.locationBtn a {
+  font-size: 1.25em;
+  color: #fff;
+  text-decoration: none;
+}
+
+
+.image-container {
+  height: 200px;
+  width: 95%;
+  display: block;
+  margin: 60px auto;
+}
+
+.header .image-container {
+  width: 100%;
+  height: 150px;
+  margin: 0 auto;
+  background: url('/images/paint-palette.jpg') left/cover;
+}
+
+.home-image {
+  margin-bottom: 100px;
+  background: url('/images/art-supply-displays.jpg') center/cover;
+}
+
+.join-image {
+  margin-bottom: 100px;
+  background: url('http://peterrossing.com/work-tools/wide-placeholder-image.png') center/cover;
+}
+
+.vendors-image {
+  margin-bottom: 100px;
+  background: url('/images/art-supply-brands.jpg') center/cover;
+}
+
+.country {
+  clear: both;
+  margin: 3em 0 1em 0;
+  background: #EDF0F2;
+  padding: 8px 0 8px 10px;
+  text-transform: uppercase;
+}
+
+.store-listing {
+  margin: 0.5em 0 2em 0;
+  line-height: 1.7em;
+  font-size: 1.1em;
+}
+.state-name,
+.no-state-name {
+  background: #FFF55C;
+  width: 100%;
+  border-radius: 0 0 12px 0;
+  padding: 1px 0 2px 10px;
+  color: #111;
+  display: inline-block;
+  margin-bottom: 0.5em;
+  margin-left: -0.45em;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 0.9em;
+}
+.no-state-name:nth-child(1) {
+  margin-top: 1.45em;
+}
+.city {
+  color: #DE1B25;
+  font-weight: 700;
+  display: inline-block;
+  margin-bottom: 0.7em;
+}
+.store-name {
+  font-size: 1.1em;
+  font-weight: 700;
+  color:#2A3086;
+}
+.phone {
+  display: inline-block;
+  margin-top: 0.5em;
+}
+.store-listing a {
+  font-size: 1.05em;
+}
+
+.glyphicon-shopping-cart {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  background: #DE1B25;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  margin-left: 0.75em;
+  padding-top: 6px;
+  font-size: 0.8em;
+}
+
+.inline-cart-icon {
+  margin: 0 0.2em;
+}
+
+.btn {
+  font-weight: 200;
+}
+
+/* .back-to-top {
+  height: 40px;
+  width: 40px;
+  clear: both;
+  background: #99BEDE;
+  color: #fff;
+  margin-right: 2%;
+  border-radius: 50%;
+  padding-top: 10px;
+  text-align: center;
+  font-size: 20px;
+  float: right;
+  text-decoration: none;
+}
+.back-to-top:hover {
+  background: #62A4DE;
+  color: #fff;
+  border: solid 1px #eee;
+    text-decoration: none;
+} */
+
+.footer {
+  clear: both;
+  background: #2A3086;
+  padding: 25px;
+  height: 75px;
+  margin-top: -75px;
+}
+
+.footer p {
+  color: #eee;
+  font-size: 0.97em;
+}
+
+.pin-footer {
+  float: right;
+  height: 50px;
+}
+
+
+@media (min-width: 950px) {
+  .store-locations {
+    max-width: 85%;
+  }
+}
+@media (min-width: 768px) {
+  .header .navbar-brand {
+    padding-left: 0;
+  }
+  .navbar-nav {
+    float: right;
+    margin-top: 2em;
+  }
+  .col-sm-4:nth-child(3n+1){
+    clear: left;
+  }
+}
+
+@media (max-width: 750px) {
+  .country {
+    margin: 2.5em 0 -0.5em 0;
+  }
+  .store-listing {
+    margin-bottom: -1em;
+  }
+  .state-name,
+  .no-state-name {
+    max-width: 95%;
+  }
+  .state-name {
+    margin-top: 2.25em;
+    margin-left: -1em;
+  }
+  .no-state-name {
+    margin-top: 20px;
+  }
+  .city {
+    margin-left: -0.5em;
+  }
+  .navbar li {
+    margin-right: 20px;
+  }
+}
+
+@media (max-width: 670px) {
+  .navbar {
+    width: 100%;
+    padding: 10px 30px;
+    background: #fff;
+    opacity: 0.9;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 480px) {
+  .page-content p {
+    font-size: 1.1em;
+    margin-right: 0.5em;
+  }
+}
+
+
+
