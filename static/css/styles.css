@@ -7,6 +7,20 @@
   border: 1px solid pink; */
 }
 
+.link-to-more, .author {
+  margin-left: 50px;
+  font-style: italic;
+}
+
+.article-text p {
+    max-width: 500px;
+    color: #111;
+    font-size: 1.1em;
+    line-height: 1.5em;
+    padding-right: 25px;
+    /* text-align: justify; */
+}
+
 .header {
   position: fixed;
   width: 100%;
@@ -55,6 +69,13 @@ h1 {
   margin: 1em 0 0.75em 0;
 }
 
+h2 {
+  font-weight: normal;
+  font-size: 1.9em;
+  color: #2A3086;
+  margin: -0.4em 0 1em 0;
+}
+
 .iamart {
   color: #2A3086;
   font-weight: 700;
@@ -72,9 +93,13 @@ h1 {
   font-weight: 700;
 }
 
-strong {
+strong, .article-title a {
   color: #2A3086;
   font-weight: 700;
+}
+
+.article-title a {
+  font-size:1.25em;
 }
 
 .page-content {

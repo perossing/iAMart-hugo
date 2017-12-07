@@ -1,0 +1,11 @@
+{{define "main"}}
+
+
+    <span><a href="/articles">return to main articles page</a></span>
+    <h1>{{lower .Title}}</h1>
+    <h2>{{.Params.subtitle}}</h2>
+    <img src="{{.Params.picture}}"/>
+    <p class="author">author: {{.Params.author}}</p>
+    <div class="article-text">{{.Content}}</div>
+
+{{end}}

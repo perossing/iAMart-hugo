@@ -1,10 +1,27 @@
 {{define "main"}}
 
-    <h1>{{.Title}}</h1>
+<h1>{{.Title}}</h1>
 
-    <p style="color:red;">(list template)</p>
+<p style="color:red;">(default list template)</p>
 
-    <div>{{.Content}}</div>
+<div>{{.Content}}</div>
+
+<hr />
+
+<div col-sm-4>
+    {{ range .Pages }}
+        <div>
+            <p class="article-title">
+                <a href="{{.URL}}">{{lower .Title}}</a>
+            </p>
+            <p>{{truncate 150 .Summary}}
+                <a href="{{.URL}}" class="link-to-more">read more...</a>
+                <p>
+                    <p></p>
+        </div>
+
+    {{ end }}
+</div>
 
 
 {{end}}
