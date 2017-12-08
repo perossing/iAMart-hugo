@@ -1,7 +1,5 @@
 backend:
-  name: github
-  repo: perossing/iAMart-hugo
-  branch: master # Branch to update (optional; defaults to master)
+  name: git-gateway
 
 media_folder: "static/images/uploads" # Media files will be stored in the repo under images/uploads
 
