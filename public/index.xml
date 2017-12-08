@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>join us</title>
+      <link>http://example.org/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/join/</guid>
+      <description>iAMart negotiates discounts, rebates, shipping terms, and payment terms that enable retail members to source products more conveniently and offer more competitive prices to our customers. As a volunteer-run organization, members are actively involved in communicating with vendors to build and maintain relationships that meet our needs as independent small businesses.
+iAMart stores also provide an invaluable network of information and support. It&amp;rsquo;s good to have friends in the industry!</description>
+    </item>
+    
+    <item>
+      <title>vendors</title>
+      <link>http://example.org/vendors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/vendors/</guid>
+      <description>Doing business with iAMart stores is an opportunity to form mutually rewarding long-term relationships with more than thirty established stores across North America.
+Member stores are diverse in size, location, and customer makeup, yet united in the goal of providing the best quality, value and service to their customers. Owners and managers have direct contact with their customers and are closely connected to daily business operations. This level of owner involvement enables iAMart stores to act promptly on purchasing decisions that are informed by current consumer interests.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/stores/accentarts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stores/accentarts/</guid>
+      <description>no content</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/stores/arch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stores/arch/</guid>
+      <description>no content</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/stores/blaines/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stores/blaines/</guid>
+      <description>no content</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/stores/bluerooster/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stores/bluerooster/</guid>
+      <description>no content</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/stores/endeavors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stores/endeavors/</guid>
+      <description>no content</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://example.org/stores/kama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/stores/kama/</guid>
+      <description>no content</description>
+    </item>
+    
+    <item>
+      <title>All about Erasers - part 1</title>
+      <link>http://example.org/articles/all-about-erasers-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/all-about-erasers-1/</guid>
+      <description>The eraser may seem like the most straightforward tool at an artist’s disposal: erasers remove marks and lines, simple as that. But, in fact there are a number of different types of erasers designed for different purposes and different materials.
+Pink erasers are fairly stiff, solid and sometimes come on the ends of pencils. They were once made out of pink colored rubber. Now they&amp;rsquo;re usually mixtures of rubber and synthetic plastics, and they&amp;rsquo;re not always pink.</description>
+    </item>
+    
+    <item>
+      <title>All about Erasers - part 2</title>
+      <link>http://example.org/articles/all-about-erasers-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/articles/all-about-erasers-2/</guid>
+      <description>Gum erasers (also called &amp;lsquo;art-gum erasers&amp;rsquo;), like pink and white erasers, are good for clearing large areas of a page. Gum erasers are not as stiff as pink erasers and are preferable for thin papers like drafting vellum or newsprint. Because they are made from a softer, coarser type of rubber, gum erasers are often a bit crumbly (especially if old and dried out). This isn’t an especially bad thing since it’s the little crumbles, called &amp;lsquo;eraser dust&amp;rsquo;, that actually hold the graphite lifted out of the page.</description>
+    </item>
+    
+    <item>
+      <title>who we are</title>
+      <link>http://example.org/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/home/</guid>
+      <description>iAMart is a coalition of independent, locally-owned art-materials stores committed to helping artists of all experience levels succeed by helping them purchase the best supplies for their individual needs.
+Owners and employees at iAMart stores are artists and community leaders with a personal interest in the vitality of their local arts communities. iAMart stores help sustain strong creative communities by providing the selection, personalized service, and product information that local artists use and request.</description>
+    </item>
+    
+  </channel>
+</rss>
