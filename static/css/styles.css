@@ -59,13 +59,13 @@
 
 .navbar li {
   font-size: 1.25em;
-  color: #2A3086;
   margin-right: 25px;
   list-style-type: none;
   float: left;
 }
 
 .navbar a {
+  color: #2A3086;
   text-decoration: none;
 }
 
@@ -270,6 +270,7 @@ strong {
 
 .btn {
   font-weight: 200;
+  margin: 10px 0;
 }
 
 /* .back-to-top {
@@ -361,7 +362,7 @@ strong {
     width: 100%;
     padding: 10px 30px;
     background: #fff;
-    opacity: 0.9;
+    opacity: 0.85;
     margin: 0 auto;
   }
   h1 {
@@ -373,6 +374,9 @@ strong {
   .page-content p {
     font-size: 1.1em;
     margin-right: 0.5em;
+  }
+  .navbar li {
+    font-size: 1.15em;
   }
 }
 

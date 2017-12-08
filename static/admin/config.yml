@@ -1,0 +1,67 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+  media_folder: "/site/static/images" # Media files will be stored in the repo under images
+
+collections:
+  - name: "pages"
+      label: "Pages"
+      files:
+          - file: "site/content/home.md"
+            label: "Home Page"
+            name: "Home"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Body", name: "body", widget: "markdown"}
+          - file: "site/content/stores/_index.md"
+            label: "Stores"
+            name: "stores"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Body", name: "body", widget: "markdown"}
+          - file: "site/content/join.md"
+            label: "Join Us"
+            name: "join us"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Body", name: "body", widget: "markdown"}
+          - file: "site/content/vendors.md"
+            label: "Vendors"
+            name: "vendors"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Body", name: "body", widget: "markdown"}
+          - file: "site/content/articles/_index.md"
+            label: "Articles"
+            name: "articles"
+            fields:
+              - {label: "Title", name: "title", widget: "string"}
+              - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: stores # Used in routes, e.g., /admin/collections/blog
+    label: "Stores" # Used in the UI
+    folder: "site/content/stores" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Store Name", name: "store", widget: "string"}
+      - {label: "Address", name: "address", widget: "string"}
+      - {label: "City", name: "city", widget: "string"}
+      - {label: "State", name: "state", widget: "string"}
+      - {label: "Country", name: "country", widget: "string"}
+      - {label: "Phone", name: "phone", widget: "string"}
+      - {label: "Website (name to display with .com)", name: "website", widget: "string"}
+      - {label: "URL (full web address beginning with http://.www)", name: "weburl", widget: "string"}
+      - {label: "E-commerce?", name: "ecommerce", widget: "string"}
+
+
+  - name: articles # Used in routes, e.g., /admin/collections/blog
+    label: "Articles" # Used in the UI
+    folder: "site/content/articles" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields for each document, usually in front matter
+      - {label: "Article Title", name: "title", widget: "string"}
+      - {label: "Subtitle", name: "subtitle", widget: "string"}
+      - {label: "Author", name: "author", widget: "string"}
+      - {label: "Category", name: "category", widget: "list", default: ["drawing", "painting"]}
+      - {label: "Article Picture", name: "picture", widget: "image"}
