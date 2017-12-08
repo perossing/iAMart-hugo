@@ -1,7 +1,11 @@
-{{define "main"}}
 
 <!-- articles single template -->
 
+{{ $navMenu := .Site.Menus.nav }} {{ partial "header" (dict "navMenu" $navMenu)}}
+
+<div class="page-container">
+    <div class="page-content">
+        
     <p>
         <a href="/articles">
             <span class="glyphicon glyphicon-arrow-left"></span>return to main articles page</a>
@@ -21,4 +25,14 @@
     </div>
 
     <div class="pin-footer"></div>
-{{end}}
+    </div>    
+</div>
+
+<div class="image-container {{.Params.picture}}"></div>
+
+<div class="pin-footer"></div>
+{{partial "footer"}}
+
+</body>
+
+</html>

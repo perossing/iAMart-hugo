@@ -1,8 +1,19 @@
-{{define "main"}}
-
 <!-- default single template -->
 
-    <h1>{{.Title}}</h1>
-    <div>{{.Content}}</div>
+{{ $navMenu := .Site.Menus.nav }} {{ partial "header" (dict "navMenu" $navMenu)}}
 
-{{end}}
+<div class="page-container">
+    <div class="page-content">
+        <h1>{{.Title}}</h1>
+        <div>{{.Content}}</div>
+    </div>    
+</div>
+
+<div class="image-container {{.Params.picture}}"></div>
+
+<div class="pin-footer"></div>
+{{partial "footer"}}
+
+</body>
+
+</html>

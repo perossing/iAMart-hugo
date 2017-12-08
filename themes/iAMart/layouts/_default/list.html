@@ -1,13 +1,24 @@
-{{define "main"}}
-
 <!-- default list template - used for articles -->
 
-<h1>{{.Title}}</h1>
-<div>{{.Content}}</div>
+{{ $navMenu := .Site.Menus.nav }} {{ partial "header" (dict "navMenu" $navMenu)}}
 
-<div class="article-list">
-    <h4 class="country">articles</h4>
-    {{partial "articlelist" . }}
+<div class="page-container">
+    <div class="page-content">
+        <h1>{{.Title}}</h1>
+        <div>{{.Content}}</div>
+        
+        <div class="article-list">
+            <h4 class="country">articles</h4>
+            {{partial "articlelist" . }}
+        </div>
+    </div>    
 </div>
 
-{{end}}
+<div class="image-container {{.Params.picture}}"></div>
+
+<div class="pin-footer"></div>
+{{partial "footer"}}
+
+</body>
+
+</html>
