@@ -1,7 +1,7 @@
 
 <!-- articles single template -->
 
-{{ $navMenu := .Site.Menus.nav }} {{ template "partials/header.html" (dict "navMenu" $navMenu)}}
+{{ $navMenu := .Site.Menus.nav }} {{ partial "header" (dict "navMenu" $navMenu)}}
 
 <div class="page-container">
     <div class="page-content">
@@ -31,7 +31,7 @@
 <div class="image-container {{.Params.picture}}"></div>
 
 <div class="pin-footer"></div>
-{{template "partials/footer.html" . }}
+{{partial "footer"}}
 
 </body>
 
