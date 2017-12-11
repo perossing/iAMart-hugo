@@ -1,5 +1,5 @@
 ---
-store: Endeavors and Think Play
+store: Endeavors & Think Play
 address: 412 Queen St
 city: Fredericton
 state: New Brunswick
