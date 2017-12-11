@@ -13,7 +13,7 @@
     <span class="phone">{{.Params.phone}}</span>
     <br />
     <a href="{{.Params.weburl}}" target="_blank" class="storesite">{{.Params.website}}</a>
-    {{ if eq .Params.ecommerce "true"}}
+    {{ if eq .Params.ecommerce true}}
         <div class="glyphicon glyphicon-shopping-cart"></div>
     {{end}}
 
