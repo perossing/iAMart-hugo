@@ -11,32 +11,32 @@ collections:
         label: "Home Page"
         name: "Home"
         fields:
-          - {label: "Title", name: title, widget: string}
-          - {label: "Body", name: body, widget: markdown}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/stores/_index.md"
         label: "Stores - Intro Text"
         name: "stores"
         fields:
-          - {label: "Title", name: title, widget: string}
-          - {label: "Body", name: body, widget: markdown}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/join.md"
         label: "Join Us"
         name: "join us"
         fields:
-          - {label: "Title", name: title, widget: string}
-          - {label: "Body", name: body, widget: markdown}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/vendors.md"
         label: "Vendors"
         name: "vendors"
         fields:
-          - {label: "Title", name: title, widget: string}
-          - {label: "Body", name: body, widget: markdown}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/articles/_index.md"
         label: "Articles"
         name: "articles"
         fields:
-          - {label: "Title", name: title, widget: string}
-          - {label: "Body", name: body, widget: markdown}
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
 
   - name: stores # Used in routes, e.g., /admin/collections/blog
     label: "Stores" # Used in the UI
