@@ -7,7 +7,7 @@ country: "Canada"
 phone: "506-455-4278"
 website: "artstuff.ca"
 weburl: "http://www.artstuff.ca"
-ecommerce: "yes"
+ecommerce: "true"
 type: "stores"
 ---
 

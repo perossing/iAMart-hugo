@@ -10,25 +10,25 @@ collections:
   - name: "pages"
     label: "Pages"
     files:
-      - file: "home/home.md"
+      - file: "content/home/home.md"
         label: "Home Page"
         name: "Home"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "stores/_index.md"
+      - file: "content/stores/_index.md"
         label: "Stores - Intro Text"
         name: "stores"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "join/join.md"
+      - file: "content/join/join.md"
         label: "Join Us"
         name: "join us"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "vendors/vendors.md"
+      - file: "content/vendors/vendors.md"
         label: "Vendors"
         name: "vendors"
         fields:
