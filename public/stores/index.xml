@@ -2,65 +2,65 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>stores on My New Hugo Site</title>
-    <link>http://example.org/stores/</link>
+    <link>/stores/</link>
     <description>Recent content in stores on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/stores/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/stores/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://example.org/stores/accentarts/</link>
+      <link>/stores/accentarts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/stores/accentarts/</guid>
+      <guid>/stores/accentarts/</guid>
       <description>no content</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/stores/arch/</link>
+      <link>/stores/arch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/stores/arch/</guid>
+      <guid>/stores/arch/</guid>
       <description>no content</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/stores/blaines/</link>
+      <link>/stores/blaines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/stores/blaines/</guid>
+      <guid>/stores/blaines/</guid>
       <description>no content</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/stores/bluerooster/</link>
+      <link>/stores/bluerooster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/stores/bluerooster/</guid>
+      <guid>/stores/bluerooster/</guid>
       <description>no content</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/stores/endeavors/</link>
+      <link>/stores/endeavors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/stores/endeavors/</guid>
+      <guid>/stores/endeavors/</guid>
       <description>no content</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://example.org/stores/kama/</link>
+      <link>/stores/kama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/stores/kama/</guid>
+      <guid>/stores/kama/</guid>
       <description>no content</description>
     </item>
     

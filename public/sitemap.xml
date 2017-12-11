@@ -3,70 +3,70 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/stores/</loc>
+    <loc>/stores/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/join/</loc>
+    <loc>/join/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/vendors/</loc>
+    <loc>/vendors/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/stores/accentarts/</loc>
+    <loc>/stores/accentarts/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/stores/arch/</loc>
+    <loc>/stores/arch/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/stores/blaines/</loc>
+    <loc>/stores/blaines/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/stores/bluerooster/</loc>
+    <loc>/stores/bluerooster/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/stores/endeavors/</loc>
+    <loc>/stores/endeavors/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/stores/kama/</loc>
+    <loc>/stores/kama/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/articles/all-about-erasers-1/</loc>
+    <loc>/articles/all-about-erasers-1/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/articles/all-about-erasers-2/</loc>
+    <loc>/articles/all-about-erasers-2/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/articles/</loc>
+    <loc>/articles/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/home/</loc>
+    <loc>/home/</loc>
   </url>
   
 </urlset>
