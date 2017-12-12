@@ -30,7 +30,7 @@
 
 .article-text {
   max-width: 700px;
-
+  margin-bottom: 85px;
 }
 
 .article-text p {
@@ -140,6 +140,7 @@ strong {
   display: block;
   margin: 0 auto;
   width: 90%;
+  max-width: 950px;
 }
 
 .page-content p,
@@ -354,6 +355,9 @@ strong {
   }
   .navbar li {
     margin-right: 20px;
+  }
+  .article-text {
+    margin-bottom: 0;
   }
 }
 

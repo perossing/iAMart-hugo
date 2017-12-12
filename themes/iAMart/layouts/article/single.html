@@ -1,31 +1,30 @@
-
 <!-- articles single template -->
 
 {{ $navMenu := .Site.Menus.nav }} {{ partial "header" (dict "navMenu" $navMenu)}}
 
 <div class="page-container">
     <div class="page-content">
-        
-    <p>
-        <a href="/articles">
-            <span class="glyphicon glyphicon-arrow-left"></span>return to main articles page</a>
-    </p>
 
-    <div class="col-sm-8">
-        <h1>{{lower .Title}}</h1>
-        <h2>{{.Params.subtitle}}</h2>
-        <img src="{{.Params.picture}}" class="article-pic" />
-        <p class="author">author: {{.Params.author}}</p>
-        <div class="article-text">{{.Content}}</div>
-    </div>
+        <p>
+            <a href="/articles">
+                <span class="glyphicon glyphicon-arrow-left"></span>return to main articles page</a>
+        </p>
 
-    <div class="article-list col-sm-4">
-        <h4 class="country">more articles</h4>
+        <div class="col-sm-8">
+            <h1>{{lower .Title}}</h1>
+            <h2>{{.Params.subtitle}}</h2>
+            <img src="{{.Params.picture}}" class="article-pic" />
+            <p class="author">author: {{.Params.author}}</p>
+            <div class="article-text">{{.Content}}</div>
+        </div>
+
+        <div class="article-list col-sm-4">
+            <h4 class="country">more articles</h4>
             {{partial "articlelist" . }}
+        </div>
+
     </div>
 
-    <div class="pin-footer"></div>
-    </div>    
 </div>
 
 <div class="image-container {{.Params.picture}}"></div>
