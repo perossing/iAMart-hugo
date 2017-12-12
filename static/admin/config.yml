@@ -49,6 +49,7 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields for each document, usually in front matter
+      - {label: "type", name: "type", widget: "hidden", default: "stores"}
       - {label: "Store Name", name: "store", widget: "string"}
       - {label: "Address", name: "address", widget: "string"}
       - {label: "City", name: "city", widget: "string"}
@@ -66,9 +67,11 @@ collections:
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}"
     fields: # The fields for each document, usually in front matter
+      - {label: "type", name: "type", widget: "hidden", default: "blog"}
       - {label: "Article Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Category", name: "category", widget: "list", default: ["drawing", "painting"]}
       - {label: "Article Picture", name: "picture", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
+
