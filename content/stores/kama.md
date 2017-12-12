@@ -7,6 +7,6 @@ country: "Canada"
 phone: "866-972-2173"
 website: "kamapigment.com"
 weburl: "http://www.kamapigment.com/index_en.html"
-ecommerce: "true"
+ecommerce: true
 type: "stores"
 ---

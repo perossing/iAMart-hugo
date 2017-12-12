@@ -7,6 +7,6 @@ country: "United States"
 phone: "907-561-5344"
 website: "blainesart.com"
 weburl: "http://blainesart.com/"
-ecommerce: "false"
+ecommerce: false
 type: "stores"
 ---

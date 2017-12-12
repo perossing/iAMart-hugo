@@ -7,6 +7,6 @@ country: "United States"
 phone: "323-302-5613"
 website: "blueroosterartsupplies.com"
 weburl: "http://www.blueroosterartsupplies.com/"
-ecommerce: "true"
+ecommerce: true
 type: "stores"
 ---

@@ -52,13 +52,12 @@ collections:
       - {label: "Address", name: "address", widget: "string"}
       - {label: "City", name: "city", widget: "string"}
       - {label: "State", name: "state", widget: "string"}
-      - {label: "Country (United States or Canada)", name: "country", widget: "string"}
+      - {label: "Country", name: "country", widget: "select", options: ["United Sates", "Canada"]}
       - {label: "Phone (###-###-####)", name: "phone", widget: "string"}
-      - {label: "Website (name to display with .com)", name: "website", widget: "string"}
+      - {label: "Website (name to display, with .com)", name: "website", widget: "string"}
       - {label: "URL (full web address beginning with http://www)", name: "weburl", widget: "string"}
-      - {label: "Ecommerce: Switch to on for stores with online sales", name: "ecommerce", widget: "boolean", default: false}
+      - {label: "Ecommerce: Switch ON for stores with online sales", name: "ecommerce", widget: "boolean", default: false}
       - {label: "type", name: "type", widget: "hidden", default: "stores"}
-
 
   - name: articles # Used in routes, e.g., /admin/collections/blog
     label: "Articles" # Used in the UI
