@@ -4,6 +4,6 @@ subtitle: test subtitle
 author: E Degas
 category:
   - painting
-picture: /static/images/uploads/degas-white.jpg
+picture: /images/uploads/degas-white.jpg
 ---
-
+Some fascinating text for a fabulous new article!
