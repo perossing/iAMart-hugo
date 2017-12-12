@@ -1,12 +1,12 @@
 ---
-title: New Store LIsting
-address: 123 Main
-city: Metro
-state: Ohio
+title: Forstall Art Center
+address: 402 Palisades Blvd
+city: Birmingham
+state: Alabama
 country: United States
-phone: 123-123-1234
-website: store.com
-weburl: 'http://www.example.com'
+phone: 205-870-0480
+website: forstallart.com
+weburl: 'http://www.forstallart.com'
 ecommerce: false
 type: stores
 ---
