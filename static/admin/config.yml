@@ -12,7 +12,7 @@ collections:
   - name: pages
     label: "Pages"
     files:
-      - file: "content/home/home.md"
+      - file: "content/home.md"
         label: "Home Page"
         name: "Home"
         fields:
@@ -24,13 +24,13 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "content/join/join.md"
+      - file: "content/join.md"
         label: "Join Us"
         name: "join us"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-      - file: "content/vendors/vendors.md"
+      - file: "content/vendors.md"
         label: "Vendors"
         name: "vendors"
         fields:

@@ -1,8 +1,8 @@
----
-title: "who we are"
-type: "index"
-picture: "home-image"
----
++++
+title = "who we are"
+type = "index"
+picture = "home-image"
++++
 
 iAMart is a coalition of independent, locally-owned art-materials stores committed to helping artists of all experience levels succeed by helping them purchase the best supplies for their individual needs.
 
