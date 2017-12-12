@@ -10,4 +10,4 @@ type: article
 ---
 This is a new article added to test netlify CMS.
 
-To make new articles show up, a **hidden field** in the config.yml was needed to_ set the "type" field to "articles"_
+To make new articles show up, a **hidden field** in the config.yml was needed to_ set the "type" field to "article"_
