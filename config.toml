@@ -10,10 +10,10 @@ theme = "iAMart"
 
 [[menu.nav]]
     name = "stores"
-    url  = "/stores"
+    url  = "/content/stores"
     weight = 2
 
 [[menu.nav]]
     name = "art supply info"
-    url  = "/articles"
+    url  = "/content/articles"
     weight = 5
