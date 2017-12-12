@@ -1,5 +1,5 @@
 ---
-store: Kama Pigment
+store: Kama Pigments
 address: 7447 Rue Saint-hubert
 city: Montreal
 state: Quebec
