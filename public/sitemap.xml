@@ -3,10 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/stores/</loc>
-  </url>
-  
-  <url>
     <loc>/join/</loc>
   </url>
   
@@ -15,35 +11,31 @@
   </url>
   
   <url>
-    <loc>/stores/accentarts/</loc>
+    <loc>/stores/_stores/accentarts/</loc>
   </url>
   
   <url>
-    <loc>/stores/arch/</loc>
+    <loc>/articles/_articles/all-about-erasers-1/</loc>
   </url>
   
   <url>
-    <loc>/stores/blaines/</loc>
+    <loc>/articles/_articles/all-about-erasers-2/</loc>
   </url>
   
   <url>
-    <loc>/stores/bluerooster/</loc>
+    <loc>/stores/_stores/arch/</loc>
   </url>
   
   <url>
-    <loc>/stores/endeavors/</loc>
+    <loc>/stores/_stores/art-outfitters/</loc>
   </url>
   
   <url>
-    <loc>/stores/kama/</loc>
+    <loc>/stores/_stores/blaines/</loc>
   </url>
   
   <url>
-    <loc>/articles/all-about-erasers-1/</loc>
-  </url>
-  
-  <url>
-    <loc>/articles/all-about-erasers-2/</loc>
+    <loc>/stores/_stores/bluerooster/</loc>
   </url>
   
   <url>
@@ -52,8 +44,32 @@
   </url>
   
   <url>
+    <loc>/articles/_articles/choosing-a-sketchbook-part-1/</loc>
+  </url>
+  
+  <url>
+    <loc>/stores/_stores/endeavors/</loc>
+  </url>
+  
+  <url>
+    <loc>/stores/_stores/new-store-listing/</loc>
+  </url>
+  
+  <url>
+    <loc>/stores/_stores/kama/</loc>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/stores/_stores/posner-s-art-store/</loc>
+  </url>
+  
+  <url>
+    <loc>/stores/_stores/san-clemente-art-supply/</loc>
   </url>
   
   <url>
@@ -63,6 +79,10 @@
   
   <url>
     <loc>/articles/</loc>
+  </url>
+  
+  <url>
+    <loc>/stores/</loc>
   </url>
   
   <url>

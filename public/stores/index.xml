@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>stores on My New Hugo Site</title>
+    <title>stores and locations on My New Hugo Site</title>
     <link>/stores/</link>
-    <description>Recent content in stores on My New Hugo Site</description>
+    <description>Recent content in stores and locations on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
@@ -11,57 +11,93 @@
     
     
     <item>
-      <title></title>
-      <link>/stores/accentarts/</link>
+      <title>Accent Arts</title>
+      <link>/stores/_stores/accentarts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/stores/accentarts/</guid>
-      <description>no content</description>
+      <guid>/stores/_stores/accentarts/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>/stores/arch/</link>
+      <title>Arch</title>
+      <link>/stores/_stores/arch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/stores/arch/</guid>
-      <description>no content</description>
+      <guid>/stores/_stores/arch/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>/stores/blaines/</link>
+      <title>Art Outfitters</title>
+      <link>/stores/_stores/art-outfitters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/stores/blaines/</guid>
-      <description>no content</description>
+      <guid>/stores/_stores/art-outfitters/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>/stores/bluerooster/</link>
+      <title>Blaines Art</title>
+      <link>/stores/_stores/blaines/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/stores/bluerooster/</guid>
-      <description>no content</description>
+      <guid>/stores/_stores/blaines/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>/stores/endeavors/</link>
+      <title>Blue Rooster Art Supply</title>
+      <link>/stores/_stores/bluerooster/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/stores/endeavors/</guid>
-      <description>no content</description>
+      <guid>/stores/_stores/bluerooster/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title></title>
-      <link>/stores/kama/</link>
+      <title>Endeavors &amp; Think Play</title>
+      <link>/stores/_stores/endeavors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/stores/kama/</guid>
-      <description>no content</description>
+      <guid>/stores/_stores/endeavors/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Forstall Art Center</title>
+      <link>/stores/_stores/new-store-listing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/stores/_stores/new-store-listing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kama Pigments</title>
+      <link>/stores/_stores/kama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/stores/_stores/kama/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Posner&#39;s Art Store</title>
+      <link>/stores/_stores/posner-s-art-store/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/stores/_stores/posner-s-art-store/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>San Clemente Art Supply</title>
+      <link>/stores/_stores/san-clemente-art-supply/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/stores/_stores/san-clemente-art-supply/</guid>
+      <description></description>
     </item>
     
   </channel>
