@@ -19,7 +19,7 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/stores/_index.md"
-        label: "Stores - Intro Text"
+        label: "Stores Page - intro text"
         name: "stores"
         fields:
           - {label: "Title", name: "title", widget: "string"}
@@ -37,7 +37,7 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/articles/_index.md"
-        label: "Articles"
+        label: "Articles Page - intro text"
         name: "articles"
         fields:
           - {label: "Title", name: "title", widget: "string"}
@@ -54,10 +54,10 @@ collections:
       - {label: "City", name: "city", widget: "string"}
       - {label: "State", name: "state", widget: "string"}
       - {label: "Country", name: "country", widget: "select", options: ["United Sates", "Canada"]}
-      - {label: "Phone (###-###-####)", name: "phone", widget: "string"}
-      - {label: "Website (name to display, with .com)", name: "website", widget: "string"}
-      - {label: "URL (full web address beginning with http://www)", name: "weburl", widget: "string"}
-      - {label: "Ecommerce: Switch ON for stores with online sales", name: "ecommerce", widget: "boolean", default: false}
+      - {label: "Phone", name: "phone", widget: "string"}
+      - {label: "Website", name: "website", widget: "string"}
+      - {label: "URL", name: "weburl", widget: "string"}
+      - {label: "Ecommerce", name: "ecommerce", widget: "boolean"}
       - {label: "type", name: "type", widget: "hidden", default: "stores"}
 
   - name: articles # Used in routes, e.g., /admin/collections/blog
