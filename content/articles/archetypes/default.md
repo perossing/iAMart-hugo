@@ -1,3 +1,3 @@
 +++
-type: "article"
+type = "article"
 +++
