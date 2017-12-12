@@ -1,7 +1,5 @@
 ---
 title: "stores"
-menu: "nav"
-weight: 2
 ---
 
 Tired of impersonal big-box chains and internet giants? Shop where you're valued as a customer and respected as an artist! There are more than thirty locally owned, independent iAMart member stores across North America.
