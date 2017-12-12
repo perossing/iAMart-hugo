@@ -47,6 +47,7 @@ collections:
     label: "Stores" # Used in the UI
     folder: "content/stores" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Store Name", name: "store", widget: "string"}
       - {label: "Address", name: "address", widget: "string"}
