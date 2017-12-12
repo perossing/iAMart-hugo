@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  branch: master
   accept_roles: #optional - accepts all users if left out
     - admin
     - editor
@@ -70,3 +71,4 @@ collections:
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Category", name: "category", widget: "list", default: ["drawing", "painting"]}
       - {label: "Article Picture", name: "picture", widget: "image"}
+      - {label: "Body", name: "body", widget: "markdown"}
