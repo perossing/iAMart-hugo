@@ -1,5 +1,5 @@
 ---
-store: "Arch"
+title: "Arch"
 address: "10 Carolina St"
 city: "San Francisco"
 state: "California"

@@ -12,5 +12,5 @@
       - {label: "Phone (###-###-####)", name: "phone", widget: "string"}
       - {label: "Website (name to display, with .com)", name: "website", widget: "string"}
       - {label: "URL (full web address beginning with http://www)", name: "weburl", widget: "string"}
-      - {label: "Ecommerce: Switch ON for stores with online sales", name: "ecommerce", widget: "boolean"}
+      - {label: "Ecommerce: Switch ON for stores with online sales", name: "ecommerce", widget: "boolean", default: false}
       - {label: "type", name: "type", widget: "hidden", default: "stores"}

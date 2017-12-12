@@ -1,5 +1,5 @@
 ---
-store: "Accent Arts"
+title: "Accent Arts"
 address: "392 California Ave"
 city: "Palo Alto"
 state: "California"

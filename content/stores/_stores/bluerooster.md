@@ -1,5 +1,5 @@
 ---
-store: "Blue Rooster Art Supply"
+title: "Blue Rooster Art Supply"
 address: "4661 Hollywood Blvd"
 city: "Los Angeles"
 state: "California"

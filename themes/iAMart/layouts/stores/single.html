@@ -1,0 +1,24 @@
+<!-- stores single template -->
+
+{{ $navMenu := .Site.Menus.nav }} {{ partial "header" (dict "navMenu" $navMenu)}}
+
+<div class="page-container">
+    <div class="page-content">
+        
+    <p>
+        <a href="/stores">
+            <span class="glyphicon glyphicon-arrow-left"></span>return to store listings</a>
+    </p>
+
+    <div class="col-sm-8">
+        <h1>{{.Title}}</h1>
+    </div>
+   
+</div>
+
+<div class="pin-footer"></div>
+{{partial "footer"}}
+
+</body>
+
+</html>

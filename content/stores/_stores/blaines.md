@@ -1,5 +1,5 @@
 ---
-store: "Blaines Art"
+title: "Blaines Art"
 address: "1025 Photo Ave"
 city: "Anchorage"
 state: "Alaska"
