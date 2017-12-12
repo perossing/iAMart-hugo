@@ -1,6 +1,6 @@
 ---
-title: A New Article
-subtitle: new content added with netlify CMS
+title: A New Article!
+subtitle: new content edited with netlify CMS
 author: a writer
 category:
   - drawing
