@@ -10,5 +10,3 @@ weburl: "http://www.blueroosterartsupplies.com/"
 ecommerce: "true"
 type: "stores"
 ---
-
-no content

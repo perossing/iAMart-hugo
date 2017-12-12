@@ -10,5 +10,3 @@ weburl: "http://www.kamapigment.com/index_en.html"
 ecommerce: "true"
 type: "stores"
 ---
-
-no content
