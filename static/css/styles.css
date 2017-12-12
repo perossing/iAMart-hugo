@@ -188,7 +188,7 @@ strong {
 }
 
 .join-image {
-  background: url('http://peterrossing.com/work-tools/wide-placeholder-image.png') center/cover;
+  background: url('/images/join-image.jpg') center/cover;
 }
 
 .vendors-image {
