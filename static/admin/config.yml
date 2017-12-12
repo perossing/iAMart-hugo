@@ -5,6 +5,7 @@ backend:
     - editor
 
 media_folder: "static/images/uploads" # Media files will be stored in the repo under images/uploads
+public_folder: "/images/uploads"
 
 collections:
   - name: "pages"
@@ -41,10 +42,11 @@ collections:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
 
-  - name: stores # Used in routes, e.g., /admin/collections/blog
+  - name: "stores" # Used in routes, e.g., /admin/collections/blog
     label: "Stores" # Used in the UI
     folder: "content/stores" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Store Name", name: "store", widget: "string"}
       - {label: "Address", name: "address", widget: "string"}
@@ -61,6 +63,7 @@ collections:
     label: "Articles" # Used in the UI
     folder: "content/articles" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}"
     fields: # The fields for each document, usually in front matter
       - {label: "Article Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
