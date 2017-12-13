@@ -1,0 +1,18 @@
+---
+title: How Dangerous is Oil Paint?
+subtitle: facts and considerations
+author: David Freas
+image: /images/uploads/oil-toxicity.jpg
+type: article
+---
+People frequently express an unfounded concern that painting with oils is dangerous and toxic. They’d like to experiment with oils but are nervous that oils are environmentally hazardous and a danger to their health. These concerns are based largely on common misconceptions.
+
+**There is nothing inherently toxic about oil paints in particular.**  In general, oil paints consist of pigment suspended in a binder, usually linseed oil (from flax seeds), and sometimes safflower oil, poppy oil, or walnut oil.  These binder substances are natural, plant-based and non-toxic.
+
+**The two areas of concern that artists should be familiar with when working with any art materials are handling of pigments and clean-up/disposal:**
+
+All paints - oils, acrylics and watercolors alike - contain pigment particles. Some pigments can have adverse physical effects if ingested or regularly applied to soft skin. **It's important for artists to educate themselves on what chemicals they are working with on their pallettes**. Lead, cadmium and mercurial sulfides are the prime offenders, though the risk they pose in art materials is marginal, especially when skin contact or inhalation of any vapors is kept to a minimum. **The greatest danger would come from actually eating or ingesting these chemicals.** Artists should never put paint, brushes, or tools in their mouth and should never use the same containers for paints as for foods or drinks. **Artists who make their own paints and use powdered pigments should always wear a facemask.** There are a number of great resources on the web to help artists educate themselves about pigments and their physical properties.
+
+**Because it is easiest to thin oil paints and clean them from brushes using solvents, many people closely associate oil painting with the use of toxic solvents.** Turpentine is perhaps the best know solvent used in oil painting, but also one of the most toxic. **The good news is that for most applications and techniques, turpentine is unnecessary.  It is even possible to paint without the use of any solvents at all.** Two excellent resources for painting without solvents or using safer solvents are Portland, Oregon-based paint makers, **M.Graham** and **Gamblin**.  [M.Graham](https://mgraham.com/artists-colors/oil-color/) makes their oil paints with walnut oil, which is lighter bodied and clearer than linseed oil.  It is easy to clean brushes and extend paints with walnut oil, eliminating the need for any solvents at all.  If your painting style requires thin, faster-drying applications of paint or thinning of paint mediums, [Gamblin](https://www.gamblincolors.com/studio-safety/solvent-free-painting/), a leader in studio safety, makes Gamsol, one of the highest quality and safest solvents available.  Gamblin painting mediums provide many solutions for studio safety for all types of painting techniques.  Any solvent should be disposed of properly by storing in a leakproof container and taking to an approved collection facility for hazardous materials. Unused paints **of any kind** should be allowed to dry, scraped from a palette and disposed of with solids, not washed down the drain.
+
+**So, rest assured. There is nothing especially dangerous about oil paints.** Caution should be taken whenever dealing with chemical substances (no matter what kind of paint they’re in), but with a little care and knowledge, artists can avoid any risk to their health and the environment.
