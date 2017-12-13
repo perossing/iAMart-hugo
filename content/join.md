@@ -1,8 +1,6 @@
-+++
-title = "join us"
-picture = "join-image"
-+++
-
+---
+title: join us
+---
 iAMart negotiates discounts, rebates, shipping terms, and payment terms that **enable retail members to source products more conveniently and offer more competitive prices to our customers**. As a volunteer-run organization, members are actively involved in communicating with vendors to **build and maintain relationships that meet our needs as independent small businesses**.
 
 iAMart stores also provide an invaluable network of information and support. It's good to have friends in the industry!
@@ -15,4 +13,4 @@ To apply for membership, a store must:
 * have no more than three physical retail locations
 * be sponsored for membership by a member store
 
-To inquire about becoming an iAMart member, contact our Membership Chair: membership@iamart.org.
+To inquire about becoming an iAMart member, contact our **Membership Chair**: membership@iamart.org.
