@@ -1,6 +1,6 @@
 ---
-title: 'Selecting Brushes for Painting'
-subtitle: shape, size, and filament
+title: Selecting Brushes for Painting
+subtitle: 'shape, size, and filament'
 author: Jolie Guillebeau
 image: /images/uploads/paintbrushes.jpg
 type: article
@@ -23,7 +23,8 @@ A side note: In the store, brushes often feel stiff because they are starched to
 
 Here’s a quick diagram showing the different shapes in my brush jar. I bought many of them recently at my local art supply store, but some are more than ten years old. Brushes can last for years when you can for them properly.
 
-<img src="/images/uploads/paint-brush-shapes_jolie-guillebeau.jpg" alt="shapes of paint brushes for artists" title="shapes of paint brushes for artists">
+![artist brush shapes](/images/uploads/paint-brush-shapes_jolie-guillebeau.jpg)
+
 
 
 Finally, size. **There’s not a single standardized system for brush sizes.** As with shoes and apparel, size numbers for brushes will vary according to style, type, manufacturer, and country of origin. The different sizing standards can be confusing, but just know that the larger number means a larger brush. Looking through my brushes, I have lots of sizes 4, 8, and 10. You’ll find the size of the brush as a number on the handle, usually it’s close to the ferrule.
