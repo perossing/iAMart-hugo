@@ -73,7 +73,6 @@ collections:
       - {label: "Article Title", name: "title", widget: "string"}
       - {label: "Subtitle", name: "subtitle", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
-      - {label: "Category", name: "category", widget: "list", default: ["drawing", "painting"]}
       - {label: "Article Picture", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "type", name: "type", widget: "hidden", default: "article"}
