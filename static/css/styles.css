@@ -44,7 +44,8 @@
   background: #fff;
   z-index: 10;
   box-shadow: 1px 1px 30px #dde;
-  height: 265px;
+  /* height: 265px; */
+  height: auto;
 }
 
 .logo {
@@ -146,14 +147,19 @@ strong {
   margin-left: 2.25em;
 }
 
+.page-content p a {
+  color: #1d7bcd;
+}
+
 .locationBtn {
   display: block;
   padding: 8px 15px 10px 15px;
   border: 1px solid transparent;
   border-radius: 5px;
-  background: #337ab7;
+  background: #1d7bcd;
   width: 250px;
-  font-size: 1.05em;
+  font-size: 1.2em;
+  margin: 35px 0 0 10px !important;
 }
 
 .locationBtn a {
@@ -295,10 +301,6 @@ strong {
   .header .navbar-brand {
     padding-left: 0;
   }
-  /* .navbar-nav {
-    float: right;
-    margin-top: 2em;
-  } */
   .col-sm-4:nth-child(3n + 1) {
     clear: left;
   }
@@ -337,12 +339,18 @@ strong {
   .navbar {
     width: 100%;
     padding: 10px 30px;
-    background: #fff;
-    opacity: 0.85;
+    background: #1d7bcd;
+    opacity: 0.9;
     margin: 0 auto;
   }
-  h1 {
-    margin-top: 0.95rem;
+  .navbar a {
+    color: #fff;
+  }
+  .header .image-container {
+    height: 115px;
+  }
+  .page-container {
+    padding-top: 240px;
   }
 }
 
@@ -352,22 +360,16 @@ strong {
     margin-right: 0.5em;
   }
   .navbar {
-    background: #337ab7;
+    opacity: 1;
   }
   .navbar li {
     font-size: 1.15em;
     line-height: 1.5em;
   }
-  .navbar a {
-    color: #fff;
-  }
-  .header {
-    height: auto;
-  }
   .header .image-container {
     display: none;
   }
   .page-container {
-    padding-top: 195px;
+    padding-top: 165px;
   }
 }

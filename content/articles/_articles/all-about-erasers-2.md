@@ -2,7 +2,7 @@
 title: "All about Erasers - part 2"
 subtitle: "gum erasers"
 author: "David Freas"
-image: /images/artgum-eraser.jpg
+image: /images/uploads/artgum-eraser.jpg
 type: article
 ---
 
