@@ -8,8 +8,6 @@ category:
 image: /images/uploads/sketchbook-shelves.jpg
 type: article
 ---
-## A new line to test CMS editing
-
 For artists, sketchbooks are essential. They provide an easy place to record ideas, make studies, and experiment with new techniques. Sometimes sketchbooks themselves are treated as finished pieces of art. Typically, however, sketchbooks are personal journals or archives that artists can refer back to in order to remind themselves of ideas or keep a record of their progress. **Since sketchbooks need to stand the test of time, they need to be sturdy, conveniently sized and suitable to the type of media that an artist uses.**
 
 _The next few posts will address some of the many variables to consider when choosing a sketchbook, including paper surface, paper weight, quality of paper, sketchbook size, and type of binding._
