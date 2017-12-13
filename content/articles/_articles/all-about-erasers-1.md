@@ -1,10 +1,11 @@
 ---
-title: "All about Erasers - part 1"
-subtitle: "pink and white erasers"
-author: "David Freas"
-image: "/images/pink-white-erasers.jpg"
+title: All about Erasers - part 1
+subtitle: pink and white erasers
+author: David Freas
+image: /images/pink-white-erasers.jpg
 type: article
 ---
+_New line to test editing and saving_
 
 The eraser may seem like the most straightforward tool at an artist’s disposal: erasers remove marks and lines, simple as that. But, in fact there are a number of different types of erasers designed for different purposes and different materials.
 
