@@ -1,6 +1,6 @@
 ---
 title: "vendors"
-picture: "vendors-image"
+image: "vendors-image"
 ---
 
 Doing business with iAMart stores is **an opportunity to form mutually rewarding long-term relationships with more than thirty established stores across North America**.

@@ -18,6 +18,8 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "type", name: "type", widget: "hidden"}          
+          - {label: "image", name: "image", widget: "hidden"}
       - file: "content/stores/_index.md"
         label: "Stores Page - intro text"
         name: "stores"
@@ -30,12 +32,14 @@ collections:
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "image", name: "image", widget: "hidden"}
       - file: "content/vendors.md"
         label: "Vendors"
         name: "vendors"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "image", name: "image", widget: "hidden"}
       - file: "content/articles/_index.md"
         label: "Articles Page - intro text"
         name: "articles"
@@ -70,7 +74,7 @@ collections:
       - {label: "Subtitle", name: "subtitle", widget: "string"}
       - {label: "Author", name: "author", widget: "string"}
       - {label: "Category", name: "category", widget: "list", default: ["drawing", "painting"]}
-      - {label: "Article Picture", name: "picture", widget: "image"}
+      - {label: "Article Picture", name: "image", widget: "image"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "type", name: "type", widget: "hidden", default: "article"}
 

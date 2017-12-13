@@ -5,7 +5,7 @@ author: David Freas
 category:
   - drawing
   - painting
-picture: /images/uploads/sketchbook-shelves.jpg
+image: /images/uploads/sketchbook-shelves.jpg
 type: article
 ---
 For artists, sketchbooks are essential. They provide an easy place to record ideas, make studies, and experiment with new techniques. Sometimes sketchbooks themselves are treated as finished pieces of art. Typically, however, sketchbooks are personal journals or archives that artists can refer back to in order to remind themselves of ideas or keep a record of their progress. **Since sketchbooks need to stand the test of time, they need to be sturdy, conveniently sized and suitable to the type of media that an artist uses.**
