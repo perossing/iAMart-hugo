@@ -24,6 +24,6 @@ theme = "iAMart"
     weight = 4
 
 [[menu.nav]]
-    name = "art supply info"
+    name = "for artists"
     url  = "/articles"
     weight = 5
