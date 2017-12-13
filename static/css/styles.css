@@ -95,6 +95,10 @@ h2 {
   font-weight: 700;
 }
 
+.return {
+  margin: 20px 0 -5px 0;
+}
+
 .article-title {
   display: block;
   font-size: 1.25em;
