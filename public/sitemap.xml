@@ -3,14 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/join/</loc>
-  </url>
-  
-  <url>
-    <loc>/vendors/</loc>
-  </url>
-  
-  <url>
     <loc>/stores/_stores/accentarts/</loc>
   </url>
   
@@ -79,6 +71,14 @@
   
   <url>
     <loc>/articles/</loc>
+  </url>
+  
+  <url>
+    <loc>/join/</loc>
+  </url>
+  
+  <url>
+    <loc>/vendors/</loc>
   </url>
   
   <url>

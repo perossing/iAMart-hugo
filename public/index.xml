@@ -11,26 +11,6 @@
     
     
     <item>
-      <title>join us</title>
-      <link>/join/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/join/</guid>
-      <description>iAMart negotiates discounts, rebates, shipping terms, and payment terms that enable retail members to source products more conveniently and offer more competitive prices to our customers. As a volunteer-run organization, members are actively involved in communicating with vendors to build and maintain relationships that meet our needs as independent small businesses.
-iAMart stores also provide an invaluable network of information and support. It&amp;rsquo;s good to have friends in the industry!</description>
-    </item>
-    
-    <item>
-      <title>vendors</title>
-      <link>/vendors/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/vendors/</guid>
-      <description>Doing business with iAMart stores is an opportunity to form mutually rewarding long-term relationships with more than thirty established stores across North America.
-Member stores are diverse in size, location, and customer makeup, yet united in the goal of providing the best quality, value and service to their customers. Owners and managers have direct contact with their customers and are closely connected to daily business operations. This level of owner involvement enables iAMart stores to act promptly on purchasing decisions that are informed by current consumer interests.</description>
-    </item>
-    
-    <item>
       <title>Accent Arts</title>
       <link>/stores/_stores/accentarts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -146,6 +126,26 @@ Pink erasers are fairly stiff, solid and sometimes come on the ends of pencils. 
       
       <guid>/stores/_stores/san-clemente-art-supply/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>join us</title>
+      <link>/join/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/join/</guid>
+      <description>iAMart negotiates discounts, rebates, shipping terms, and payment terms that enable retail members to source products more conveniently and offer more competitive prices to our customers. As a volunteer-run organization, members are actively involved in communicating with vendors to build and maintain relationships that meet our needs as independent small businesses.
+iAMart stores also provide an invaluable network of information and support. It&amp;rsquo;s good to have friends in the industry!</description>
+    </item>
+    
+    <item>
+      <title>join us</title>
+      <link>/vendors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/vendors/</guid>
+      <description>Doing business with iAMart stores is an opportunity to form mutually rewarding long-term relationships with more than thirty established stores across North America.
+Member stores are diverse in size, location, and customer makeup, yet united in the goal of providing the best quality, value and service to their customers. Owners and managers have direct contact with their customers and are closely connected to daily business operations. This level of owner involvement enables iAMart stores to act promptly on purchasing decisions that are informed by current consumer interests.</description>
     </item>
     
     <item>
