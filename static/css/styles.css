@@ -9,10 +9,9 @@
   width: 100%;
 }
 
-.link-to-more,
 .author {
-  margin-left: 3px;
   font-style: italic;
+  margin: 15px 0;
 }
 
 .article-pic {
@@ -20,15 +19,15 @@
 }
 
 .article-list {
-  max-width: 600px;
+  max-width: 575px;
 }
 
 .article-titles {
-  margin: 15px 0 0 15px;
+  margin: 5px 0 0 8px;
 }
 
 .article-text {
-  max-width: 700px;
+  max-width: 525px;
   margin-bottom: 85px;
 }
 
@@ -44,7 +43,6 @@
   background: #fff;
   z-index: 10;
   box-shadow: 1px 1px 30px #dde;
-  /* height: 265px; */
   height: auto;
 }
 
@@ -92,32 +90,16 @@ h2 {
   margin: -0.4em 0 1em 0;
 }
 
-.iamart {
-  color: #2a3086;
-  font-weight: 700;
-  padding: 0 2px;
-  font-size: 1.1em;
-}
-.am {
-  color: #de1b25;
-  text-transform: uppercase;
-  font-size: 0.98em;
-}
-
-.contrast-text {
-  color: #2a3086;
-  font-weight: 700;
-}
-
-strong {
+.contrast-text, strong {
   color: #2a3086;
   font-weight: 700;
 }
 
 .article-title {
   display: block;
-  font-size: 1.3em;
-  padding: 5px 0;
+  font-size: 1.25em;
+  line-height: 1.15em;
+  padding: 8px 0;
   border-bottom: 1px solid #8dc4f1;
 }
 
@@ -134,14 +116,14 @@ strong {
   display: block;
   margin: 0 auto;
   width: 90%;
-  max-width: 950px;
+  max-width: 850px;
 }
 
 .page-content p,
 .page-content ul {
   font-size: 1.2em;
   font-weight: 200;
-  margin: 1em 10% 1em 2%;
+  /* margin: 1em 10% 1em 2%; */
 }
 .page-content ul {
   margin-left: 2.25em;
