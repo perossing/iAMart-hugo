@@ -5,7 +5,7 @@ theme = "iAMart"
 
 [[menu.nav]]
     name = "home"
-    url  = "/home"
+    url  = "/"
     weight = 1
 
 [[menu.nav]]
