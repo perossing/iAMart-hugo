@@ -14,7 +14,7 @@ theme = "iAMart"
     weight = 2
 
 [[menu.nav]]
-    name = "join"
+    name = "join us"
     url  = "/join"
     weight = 3
 

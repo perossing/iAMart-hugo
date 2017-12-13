@@ -150,9 +150,10 @@ strong {
   display: block;
   padding: 8px 15px 10px 15px;
   border: 1px solid transparent;
-  border-radius: 4px;
-  margin: 40px 0;
+  border-radius: 5px;
   background: #337ab7;
+  width: 250px;
+  font-size: 1.05em;
 }
 
 .locationBtn a {
@@ -294,10 +295,10 @@ strong {
   .header .navbar-brand {
     padding-left: 0;
   }
-  .navbar-nav {
+  /* .navbar-nav {
     float: right;
     margin-top: 2em;
-  }
+  } */
   .col-sm-4:nth-child(3n + 1) {
     clear: left;
   }
@@ -350,7 +351,23 @@ strong {
     font-size: 1.1em;
     margin-right: 0.5em;
   }
+  .navbar {
+    background: #337ab7;
+  }
   .navbar li {
     font-size: 1.15em;
+    line-height: 1.5em;
+  }
+  .navbar a {
+    color: #fff;
+  }
+  .header {
+    height: auto;
+  }
+  .header .image-container {
+    display: none;
+  }
+  .page-container {
+    padding-top: 195px;
   }
 }
