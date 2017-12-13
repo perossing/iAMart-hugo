@@ -2,9 +2,6 @@
 title: Choosing a Sketchbook - part 1
 subtitle: paper surface and weight
 author: David Freas
-category:
-  - drawing
-  - painting
 image: /images/uploads/sketchbook-shelves.jpg
 type: article
 ---
