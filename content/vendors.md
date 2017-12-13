@@ -1,5 +1,5 @@
 +++
-title = "join us"
+title = "vendors"
 picture = "vendors-image"
 +++
 
