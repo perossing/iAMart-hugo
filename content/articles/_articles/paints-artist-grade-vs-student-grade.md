@@ -1,31 +1,12 @@
 ---
-title: 'Selecting Brushes for Painting'
-subtitle: shape, size, and filament
-author: Jolie Guillebeau
-image: /images/uploads/paintbrushes.jpg
+title: 'Paints: Artist vs. Student Grade'
+subtitle: what they are and when to use them
+author: David Freas
+image: /images/uploads/student-v-artist.jpg
 type: article
 ---
-For painters, the tool that matters most is a good brush. Paint can be adjusted to get the right consistency, canvases or paper can be gessoed, sanded, or sized, but **if your brush frustrates you, there's not much that can be done. That's why choosing the right one matters.** Here are a few hints to help you get started. Since I'm an oil painter, I'm going to refer to brushes for oil painters here, but most of this information applies to almost any other kind of painting. There’s a lot to know about brushes. And yet, once you know it then it becomes pretty simple. It’s a bit like Harry Potter choosing a wand– the most important factor is how it feels when you’re using it. And armed with the right information, you’ll be able to make magic with your brushes, too.
+Paint manufacturers offer a broad range of quality in paints.  **Some paints have more refined, vibrant pigments in them, while others contain less pigment and lower quality pigments** which may fade over time or retain their color poorly when intermixed. While it would be nice to work exclusively with high quality paints, these paints can be expensive and are not necessarily ideal for people new to the medium, or for learning and experimentation. For this reason, paint manufacturers often draw a distinction between student-grade and artist-grade paints.
 
-Most brushes are built with a handle, a ferrule (the metal part that holds the bristles) and the brush head (which is another name for the filaments or the little hairs). When buying brushes you want to pay attention to the handle and the ferrule first. Is the ferrule wobbly where it attaches to the handle? Pick another brush. Is the paint chipping from the handle? Pick another brush– this likely means the wooden handle has been exposed to water and will swell. Handles are longer for oils and acrylics (for painting at an easel) and shorter for watercolor (since you’re painting at a desk or tabletop). You want a seamless ferrule, made of metal that won’t rust. This keeps paint and liquids from damaging the structure of the brush.
+**Student-grade paints are less expensive, can contain a great deal less pigment, and generally use lesser quality pigments.** They’re intended to allow students to exercise painting techniques and learn about the medium "on the cheap." Student-grade paints often come in a limited number of colors and because of the quality of their pigments, the colors can lose brilliance and intensity when mixed, resulting in dingier, "muddier" colors. This is especially true with student grade watercolors where it can be very challenging to achieve a precise color value.  Student-grade paints are very useful for short-term experimentation, student assignments, and also for underpainting.  Ultimately, however, student grade paints can be limiting, preventing even less experienced artists from discovering and experiencing the true potential of their media and their own ability.
 
-As for filaments, it’s a little more complicated but it still basically comes down to three choices: **Material, Shape, and Size.**
-
-**Material** is first. The filaments can be made of soft animal hair, hog bristles or synthetic materials like nylon. There are advantages to each kind and it’s a good idea to have a few of each in your toolkit.
-
-First, let’s talk about natural. **There are two main kinds of natural bristles–hog bristle and soft animal hairs like sable.** Sable brushes have a nice spring, absorb and hold a lot of paint, and keep their shape very well. They can expensive, but when cared for they’ll last years. They are best for details and precision. Hog bristle is usually white in color, and stiffer. They’re good for pushing paint around quickly and leave a distinct mark in the stroke. They’re bristly, often coarse, and very durable. They work well for large surfaces and for thicker paint.
-
-The widest variety of brushes in art supply stores are **synthetics.** Synthetic brushes are made from nylon or polyester and they’re generally less expensive than softer animal hair brushes. However, there are a growing number higher end synthetic filaments especially designed for artists' brushes that provide specific properties such as stiffness for heavy paints, absorbency to hold paint, or softness for blending.
-
-A side note: In the store, brushes often feel stiff because they are starched to help protect them in transit. Handle brushes carefully when considering which ones to purchase. Many stores will be happy to let customers try a brush with water on brush-stroke paper in order to get a feel for how the brush handles.
-
-**Shape** is the second factor in choosing a brush that makes you happy. It’s good to have a variety available. The different brush shapes often suggest their own use.  For example, the thin shape of a liner is best suited to fine details, whereas the wide, square shape of a ‘flat’ works well for covering larger areas or blocking in rougher shapes.  Rounds are perhaps the most versatile and useful shape as the point can be used for details or the body can be used for larger areas.  You’ll find with experience and experimentation that you prefer certain shapes and sizes to achieve the results you're after.
-
-Here’s a quick diagram showing the different shapes in my brush jar. I bought many of them recently at my local art supply store, but some are more than ten years old. Brushes can last for years when you can for them properly.
-
-<img src="/images/uploads/paint-brush-shapes_jolie-guillebeau.jpg" alt="shapes of paint brushes for artists" title="shapes of paint brushes for artists">
-
-
-Finally, size. **There’s not a single standardized system for brush sizes.** As with shoes and apparel, size numbers for brushes will vary according to style, type, manufacturer, and country of origin. The different sizing standards can be confusing, but just know that the larger number means a larger brush. Looking through my brushes, I have lots of sizes 4, 8, and 10. You’ll find the size of the brush as a number on the handle, usually it’s close to the ferrule.
-
-Brushes are the most versatile tool in the painter's toolkit. Choosing the right one can really make a difference in how much you enjoy both the painting process and your results.
+**Artist-grade paints come in a wide variety of colors, contain more and better pigments, and are, therefore, more expensive.** Because of their more refined pigments, artist grade paints mix more cleanly, affording the artist a much larger palette of colors. Many artist grade paints (especially when dealing with oils and acrylics) are so packed with pigment that it's advisable to use mediums or extenders in order to get the most out of every tube.  This point is an important one to remember, as **extending artist-grade paints with colorless mediums can make the use of artist-grade paints more economical and make the use of student-grade colors a false savings.**

@@ -1,14 +1,31 @@
 ---
-title: 'Paints: Series Numbers'
-subtitle: what do the numbers on tubes mean?
-author: David Freas
-image: /images/uploads/paints-series-numbers.jpg
+title: 'Selecting Brushes for Painting'
+subtitle: shape, size, and filament
+author: Jolie Guillebeau
+image: /images/uploads/paintbrushes.jpg
 type: article
 ---
-**Paint manufacturers generally group their selection of artist-grade paints into several distinct series, according to the cost of the pigments used in each color of paint.** These series are marked on the tube, generally with numbers (series 1, series 2, etc.), or sometimes with letters. Paints with lower series numbers are less expensive, while higher series numbers are more expensive.
+For painters, the tool that matters most is a good brush. Paint can be adjusted to get the right consistency, canvases or paper can be gessoed, sanded, or sized, but **if your brush frustrates you, there's not much that can be done. That's why choosing the right one matters.** Here are a few hints to help you get started. Since I'm an oil painter, I'm going to refer to brushes for oil painters here, but most of this information applies to almost any other kind of painting. There’s a lot to know about brushes. And yet, once you know it then it becomes pretty simple. It’s a bit like Harry Potter choosing a wand– the most important factor is how it feels when you’re using it. And armed with the right information, you’ll be able to make magic with your brushes, too.
 
-**Manufacturers use series numbers because there can be big differences in the costs of pigments.** The natural mineral-pigments in colors like cobalt, cadmium and vermillion are more rare than other pigments, expensive to extract from the ground and process into refined pigments, so they have higher series numbers, which reflect their higher price. Whites, blacks, earth tones, and many synthetic pigments are more plentiful, less costly to produce and, therefore, have lower series numbers.
+Most brushes are built with a handle, a ferrule (the metal part that holds the bristles) and the brush head (which is another name for the filaments or the little hairs). When buying brushes you want to pay attention to the handle and the ferrule first. Is the ferrule wobbly where it attaches to the handle? Pick another brush. Is the paint chipping from the handle? Pick another brush– this likely means the wooden handle has been exposed to water and will swell. Handles are longer for oils and acrylics (for painting at an easel) and shorter for watercolor (since you’re painting at a desk or tabletop). You want a seamless ferrule, made of metal that won’t rust. This keeps paint and liquids from damaging the structure of the brush.
 
-Importantly, **lower series number paints, while they may be cheaper, are not necessarily lesser quality.** Remember that a manufacturer’s series-numbered paints are all artist-grade paints, as opposed to student-grade paints.  Artist-grade paints contain larger amounts of high-quality pigments as well as better quality vehicles (binders). So, while naphthol red, labeled by some manufacturers as series 2, is less expensive than cadmium red, labeled by some manufacturers as series 5, the naphthol red is still a high-quality paint that can justify its place on the artist’s pallets.
+As for filaments, it’s a little more complicated but it still basically comes down to three choices: **Material, Shape, and Size.**
 
-When buying paints, **series numbers make pricing easy, but the more significant properties of a paint are better determined by other information found on the tube,** such as the pigment’s color index code, its lightfastness, the opacity of the paint, and the makeup of the vehicle in which the pigment is suspended.
+**Material** is first. The filaments can be made of soft animal hair, hog bristles or synthetic materials like nylon. There are advantages to each kind and it’s a good idea to have a few of each in your toolkit.
+
+First, let’s talk about natural. **There are two main kinds of natural bristles–hog bristle and soft animal hairs like sable.** Sable brushes have a nice spring, absorb and hold a lot of paint, and keep their shape very well. They can expensive, but when cared for they’ll last years. They are best for details and precision. Hog bristle is usually white in color, and stiffer. They’re good for pushing paint around quickly and leave a distinct mark in the stroke. They’re bristly, often coarse, and very durable. They work well for large surfaces and for thicker paint.
+
+The widest variety of brushes in art supply stores are **synthetics.** Synthetic brushes are made from nylon or polyester and they’re generally less expensive than softer animal hair brushes. However, there are a growing number higher end synthetic filaments especially designed for artists' brushes that provide specific properties such as stiffness for heavy paints, absorbency to hold paint, or softness for blending.
+
+A side note: In the store, brushes often feel stiff because they are starched to help protect them in transit. Handle brushes carefully when considering which ones to purchase. Many stores will be happy to let customers try a brush with water on brush-stroke paper in order to get a feel for how the brush handles.
+
+**Shape** is the second factor in choosing a brush that makes you happy. It’s good to have a variety available. The different brush shapes often suggest their own use.  For example, the thin shape of a liner is best suited to fine details, whereas the wide, square shape of a ‘flat’ works well for covering larger areas or blocking in rougher shapes.  Rounds are perhaps the most versatile and useful shape as the point can be used for details or the body can be used for larger areas.  You’ll find with experience and experimentation that you prefer certain shapes and sizes to achieve the results you're after.
+
+Here’s a quick diagram showing the different shapes in my brush jar. I bought many of them recently at my local art supply store, but some are more than ten years old. Brushes can last for years when you can for them properly.
+
+<img src="/images/uploads/paint-brush-shapes_jolie-guillebeau.jpg" alt="shapes of paint brushes for artists" title="shapes of paint brushes for artists">
+
+
+Finally, size. **There’s not a single standardized system for brush sizes.** As with shoes and apparel, size numbers for brushes will vary according to style, type, manufacturer, and country of origin. The different sizing standards can be confusing, but just know that the larger number means a larger brush. Looking through my brushes, I have lots of sizes 4, 8, and 10. You’ll find the size of the brush as a number on the handle, usually it’s close to the ferrule.
+
+Brushes are the most versatile tool in the painter's toolkit. Choosing the right one can really make a difference in how much you enjoy both the painting process and your results.
