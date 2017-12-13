@@ -5,8 +5,6 @@ author: David Freas
 image: /images/pink-white-erasers.jpg
 type: article
 ---
-_New line to test editing and saving_
-
 The eraser may seem like the most straightforward tool at an artist’s disposal: erasers remove marks and lines, simple as that. But, in fact there are a number of different types of erasers designed for different purposes and different materials.
 
 Pink erasers are fairly stiff, solid and sometimes come on the ends of pencils. They were once made out of pink colored rubber. Now they're usually mixtures of rubber and synthetic plastics, and they're not always pink.
