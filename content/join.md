@@ -1,7 +1,5 @@
 +++
 title = "join us"
-menu = "nav"
-weight = 3
 picture = "join-image"
 +++
 

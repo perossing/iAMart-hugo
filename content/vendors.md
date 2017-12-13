@@ -1,7 +1,5 @@
 +++
 title = "vendors"
-menu = "nav"
-weight = 4
 picture = "vendors-image"
 +++
 

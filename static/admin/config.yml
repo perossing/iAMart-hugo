@@ -14,7 +14,7 @@ collections:
     files:
       - file: "content/home.md"
         label: "Home Page"
-        name: "Home"
+        name: "home"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
@@ -26,7 +26,7 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "content/join.md"
         label: "Join Us"
-        name: "join us"
+        name: "join"
         fields:
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
