@@ -1,6 +1,8 @@
----
-title: join us
----
++++
+title = "join us"
+picture = "join-image"
++++
+
 iAMart negotiates discounts, rebates, shipping terms, and payment terms that **enable retail members to source products more conveniently and offer more competitive prices to our customers**. As a volunteer-run organization, members are actively involved in communicating with vendors to **build and maintain relationships that meet our needs as independent small businesses**.
 
 iAMart stores also provide an invaluable network of information and support. It's good to have friends in the industry!
