@@ -189,6 +189,10 @@ strong {
   background: url("/images/art-supply-brands.jpg") center/cover;
 }
 
+.no-image {
+  height: 85px;
+}
+
 .country {
   clear: both;
   margin: 3em 0 1em 0;

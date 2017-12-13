@@ -182,11 +182,15 @@ strong {
 }
 
 .join-image {
-  background: url("/images/join-image.jpg") center/cover;
+  background: url("/images/supply-closeups.jpg") center/cover;
 }
 
 .vendors-image {
   background: url("/images/art-supply-brands.jpg") center/cover;
+}
+
+.no-image {
+  height: 85px;
 }
 
 .country {
