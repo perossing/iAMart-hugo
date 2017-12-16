@@ -3,6 +3,9 @@
 {{ $navMenu := .Site.Menus.nav }} {{ partial "header" (dict "navMenu" $navMenu)}}
 
 <div class="page-container">
+
+    <div class="image-container page-top"></div>
+
     <div class="page-content">
         <h1>{{.Title}}</h1>
         <div>{{.Content}}</div>
@@ -11,8 +14,7 @@
             <h4 class="country">articles</h4>
             {{partial "articlelist" . }}
         </div>
-    </div>
-    <div class="image-container no-image"></div>   
+    </div>  
 </div>
 
 <div class="pin-footer"></div>
