@@ -1,5 +1,5 @@
 ---
-title: about our organization
+title: who we are
 type: index
 image: home-image
 ---
