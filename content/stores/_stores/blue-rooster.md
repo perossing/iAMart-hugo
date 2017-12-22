@@ -1,6 +1,6 @@
 ---
 title: Blue Rooster Art Supply
-address: 4661 Hollywood Blv
+address: 4661 Hollywood Blvd
 city: Los Angeles
 state: California
 country: United States

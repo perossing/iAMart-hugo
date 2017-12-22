@@ -1,7 +1,7 @@
 ---
 title: Santa Barbara Art Essentials
 address: 32 East Victoria St
-city: San Francisco
+city: Santa Barbara
 state: California
 country: United States
 phone: 805-965-5456
