@@ -19,7 +19,7 @@
         
             <h4 class="country">United States</h4>
             
-            {{ range sort (sort ( where .Pages ".Params.country" "United States") ".Params.city") ".Params.state" }}
+            {{ range sort  (sort ( where .Pages ".Params.country" "United States") ".Params.city") ".Params.state" }}
 
                 {{ partial "storelisting" . }}
 

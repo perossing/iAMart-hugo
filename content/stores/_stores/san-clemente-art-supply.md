@@ -6,8 +6,7 @@ state: California
 country: United States
 phone: 949-369-6603
 website: scartsupply.com
-weburl: 'http://www.scartsupply.com'
+weburl: http://www.scartsupply.com
 ecommerce: true
 type: stores
 ---
-

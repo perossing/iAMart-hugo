@@ -6,8 +6,7 @@ state: New York
 country: United States
 phone: 212-871-0220
 website: davinciartistsupply.com
-weburl: 'http://www.davinciartistsupply.com'
+weburl: http://www.davinciartistsupply.com
 ecommerce: true
 type: stores
 ---
-

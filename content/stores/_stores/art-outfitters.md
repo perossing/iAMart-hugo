@@ -6,7 +6,7 @@ state: Arkansas
 country: United States
 phone: 501-374-4323
 website: artoutfitters.blogspot.com
-weburl: 'https://artoutfitters.blogspot.com'
+weburl: https://artoutfitters.blogspot.com
 ecommerce: false
 type: stores
 ---
