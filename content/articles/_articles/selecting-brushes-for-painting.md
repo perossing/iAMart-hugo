@@ -1,6 +1,6 @@
 ---
 title: Selecting Brushes for Painting
-subtitle: 'shape, size, and filament'
+subtitle: shape, size, and filament
 author: Jolie Guillebeau
 image: /images/uploads/paintbrushes.jpg
 type: article

@@ -123,14 +123,18 @@ h2 {
   max-width: 850px;
 }
 
-.page-content p,
-.page-content ul {
+.page-content p {
   font-size: 1.2em;
   font-weight: 200;
-  /* margin: 1em 10% 1em 2%; */
 }
+
 .page-content ul {
   margin-left: 2.25em;
+  font-size: 1.2em;
+}
+
+.page-content ul p {
+  font-size: 1em;
 }
 
 .page-content p a {

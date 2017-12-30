@@ -1,0 +1,16 @@
+---
+title: White Paints and Pigments
+subtitle: zinc, titanium, and flake
+author: David Freas
+image: /images/uploads/degas-white.jpg
+type: article
+---
+White may be the color used most by artists who paint with oils and acrylics, but there are several types of white pigment to choose from. The three most common are **zinc white, titanium white and flake white**.  Each of these paints has a different set of qualities useful for specific purposes.
+
+**Zinc white is more transparent** than titanium or flake. Often, artists use zinc white (with a little of another pigment) as an initial base coat. Because of zinc’s transparency, this technique allows sketches on a canvas to show through. Zinc can be a good option for lightening colors. Because of its semi-transparency, **it does not lighten colors nearly as much** as titanium and flake, allowing the artist to make more subtle changes in the tone of their palette. Artists also use zinc white to lighten semi-opaque paints or paint hues without totally losing their transparent qualities. Zinc white in oil colors, however, dries slower than titanium or flake and can crack if used alone.
+
+**Titanium white is very opaque and is very strong when lightening other colors.** It is softer and less prone to cracking than zinc white. Artists sometimes describe titanium white as chalky because of its flat, matte, almost powdery appearance. Because of its extreme opacity, titanium white will obliterate the transparency of semi-opaque pigments and hues. Titanium white can sometimes have a graying effect when used as a lightener, especially when dealing with mixed paints that contain combinations of various opaque pigments and hues. **In order to preserve the vibrancy of colors when mixing with titanium white, using single-pigment paints is usually recommended** rather than colors made from multiple pigments (see '[Pigment Codes](../paints-pigment-codes/)' article on this site)
+
+True flake white (generally only seen as a color of oil paint) contains lead. Usually, flake white is a combination of lead-based pigments and zinc, though it may also be purely lead-based. Pure lead white paint may also be called cremnitz white, foundation white or cremser white. Flake white, like titanium white is very opaque. Flake white is popular among artists because of its slightly warm tone, quicker drying time and creamy, workable consistency. Flake white is often the choice of portrait artists because it can create very supple skin tones.
+
+The contents of zinc and titanium white paints are obvious, but tubes of flake white may surprise you. Some flake whites contain no lead at all or only a small amount mixed with mostly zinc white. This is sometimes marked as flake white hue. Oddly, while the combination of zinc and titanium (sometimes called T-Z white), and zinc and lead are common, the combination of titanium and lead is rarely seen. As always, experimentation and **a paint's color index code is the best way to figure out what you’re working with: Lead White - PW1, Zinc White - PW4, Titanium White - PW6.**
