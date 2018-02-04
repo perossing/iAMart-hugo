@@ -3,6 +3,8 @@
 html, body {
     font-family: "Assistant", sans-serif;
     color: #111;
+    background: #fff;
+    padding: 25px;
   }
 
   body {

@@ -11,5 +11,3 @@ export default class PagePreview extends React.Component {
   </div>   
   }
 }
-
-
