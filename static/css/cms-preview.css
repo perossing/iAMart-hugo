@@ -23,3 +23,7 @@ html, body {
     color: #2a3086;
     margin: 1em 0 0.75em 0;
   }
+
+  a {
+    color: #1d7bcd;
+  }
