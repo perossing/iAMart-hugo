@@ -4,9 +4,10 @@ html, body {
     font-family: "Assistant", sans-serif;
     color: #111;
   }
+
   body {
     font-size: 1.2em;
-    font-weight: 200;
+    font-weight: 400;
   }
 
   strong {
