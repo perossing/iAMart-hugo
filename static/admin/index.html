@@ -16,20 +16,19 @@
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^1.0.0/dist/cms.js"></script>
 
-  <script>  
+  <script>
     var PagePreview = createClass({
       render: function() {
         var entry = this.props.entry;
-        return React.createElement('div', {},
-          // React.createElement('h1', {}, entry.getIn(['data', 'title'])),
-          React.createElement('h1', {}, this.props.widgetFor('title')),
-          React.createElement('div', {}, this.props.widgetFor('body'))
+        return h('div', {},
+          h('h1', {}, entry.getIn(['data', 'title'])),
+          h('div', {"className": "text"}, this.props.widgetFor('body'))
         );
       }
     });
-
+    
     CMS.registerPreviewTemplate("pages", PagePreview);
-    CMS.registerPreviewStyle("/css/cms-preview.css");    
+    CMS.registerPreviewStyle("/css/cms-preview.css");
   </script>
 
 </body>
