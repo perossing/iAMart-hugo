@@ -20,10 +20,10 @@
     var PagePreview = createClass({
       render: function() {
         var entry = this.props.entry;
-        return h('div', {},
-          // h('h1', {}, entry.getIn(['data', 'title'])),
-          h('h1', {}, this.props.widgetFor('title')),
-          h('div', {}, this.props.widgetFor('body'))
+        return React.createElement('div', {},
+          React.createElement('h1', {}, entry.getIn(['data', 'title'])),
+          // React.createElement('h1', {}, this.props.widgetFor('title'),
+          React.createElement('div', {}, this.props.widgetFor('body'))
         );
       }
     });
