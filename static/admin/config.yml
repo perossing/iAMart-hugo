@@ -59,8 +59,8 @@ collections:
       - {label: "State", name: "state", widget: "string"}
       - {label: "Country", name: "country", widget: "select", options: ["United States", "Canada"]}
       - {label: "Phone (###-###-####)", name: "phone", widget: "string"}
-      - {label: "Website (name to display, with .com", name: "website", widget: "string"}
-      - {label: "URL (full web address beginning with http://www)", name: "weburl", widget: "string"}
+      - {label: "Website (domain name with .com)", name: "website", widget: "string"}
+      - {label: "URL (full website address beginning with http://www)", name: "weburl", widget: "string"}
       - {label: "E-commerce Switch ON for stores with online sales", name: "ecommerce", widget: "boolean", default: false}
       - {label: "type", name: "type", widget: "hidden", default: "stores"}
 
