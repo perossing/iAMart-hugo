@@ -14,4 +14,4 @@ To apply for membership, a store must:
 * have no more than three physical retail locations
 * be sponsored for membership by a member store
 
-To inquire about becoming an iAMart member, contact our **Membership Chair**: [membership@iamart.org](mailto:membership@iamart.org?Subject=iAMart%20membership%20inquiry).
+To inquire about becoming an iAMart member, contact our [Membership Chair](mailto:kate@archsupplies.com?Subject=iAMart%20membership%20inquiry).
