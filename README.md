@@ -1,2 +1,2 @@
 # iAMart-hugo
-rebuild of existing site &amp; blog in Hugo to use with netlify CMS
+site built with Hugo static site generator for use with Netlify CMS
