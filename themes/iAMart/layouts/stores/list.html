@@ -10,15 +10,22 @@
         <h1>{{.Title}}</h1>
         
             <div>{{.Content}}</div>
+
+            
         
-            <h4 class="country">Canada</h4>        
-            {{ range sort (where .Pages ".Params.country" "Canada") ".Params.state" }}
-                {{ partial "storelisting" . }}
+            <h4 class="country">Canada</h4> 
+            {{ range .Pages.GroupByParam "state"}}       
+                {{ range sort (where .Pages ".Params.country" "Canada") ".Params.city" }}
+                    {{ partial "storelisting" . }}
+                {{end}}
             {{end}}
         
-            <h4 class="country">United States</h4>            
-            {{ range sort (sort (where .Pages ".Params.country" "United States") ".Params.city") ".Params.state"}}
-                {{ partial "storelisting" . }}
+            <h4 class="country">United States</h4> 
+            
+            {{ range .Pages.GroupByParam "state"}}
+                {{ range sort (where .Pages ".Params.country" "United States") ".Params.city"}}
+                    {{ partial "storelisting" . }}
+                {{end}}
             {{end}}
 
             <div class="pin-footer"></div>

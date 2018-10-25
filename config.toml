@@ -1,6 +1,5 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "My New Hugo Site"
 theme = "iAMart"
 enableRobotsTXT = true
 canonifyURLs = true
