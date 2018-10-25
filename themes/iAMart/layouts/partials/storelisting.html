@@ -15,7 +15,7 @@
     {{ if isset .Params "weburl2" }}<br /> <a href="{{.Params.weburl2}}" target="_blank" class="storesite">{{.Params.website2}}</a> {{end}}
     
     {{ if eq .Params.ecommerce true}}
-        <div class="glyphicon glyphicon-shopping-cart"></div>
+    <a href="{{.Params.weburl}}" target="_blank"><div class="glyphicon glyphicon-shopping-cart"></div></a>
     {{end}}
 
 </section>
