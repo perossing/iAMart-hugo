@@ -1,12 +1,12 @@
 ---
 title: Art Supply Depo
-address: 435 East Wooster Street
-city: Bowling Green
+address: 29 South Saint Clair Street
+city: Toledo
 state: Ohio
 country: United States
-phone: '419-352-9501 '
+phone: 419-352-9501
 website: artsupplydepo.com
-weburl: 'http://www.artsupplydepobg.com/'
+weburl: 'http://artsupplydepo.com/toledo'
 ecommerce: false
 type: stores
 ---
