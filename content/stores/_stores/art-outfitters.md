@@ -5,9 +5,8 @@ city: Little Rock
 state: Arkansas
 country: United States
 phone: 501-374-4323
-website: artoutfitters.blogspot.com
-weburl: https://artoutfitters.blogspot.com
+website: art-outfitters.com
+weburl: https://art-outfitters.com
 ecommerce: false
 type: stores
 ---
-
