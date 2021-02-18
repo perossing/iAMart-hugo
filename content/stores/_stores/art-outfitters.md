@@ -7,6 +7,6 @@ country: United States
 phone: 501-374-4323
 website: art-outfitters.com
 weburl: https://art-outfitters.com
-ecommerce: false
+ecommerce: true
 type: stores
 ---
