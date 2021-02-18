@@ -5,8 +5,8 @@ city: Muncie
 state: Indiana
 country: United States
 phone: 765-284-2919
-website: artmartmuncie.com
-weburl: http://www.artmartmuncie.com
+website: artmartmuncie.net
+weburl: http://www.artmartmuncie.net
 ecommerce: false
 type: stores
 ---
