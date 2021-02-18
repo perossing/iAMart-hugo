@@ -6,8 +6,7 @@ state: Ohio
 country: United States
 phone: 419-352-9501
 website: artsupplydepo.com
-weburl: 'http://www.artsupplydepobg.com/'
+weburl: https://artsupplydepo.com/
 ecommerce: false
 type: stores
 ---
-
