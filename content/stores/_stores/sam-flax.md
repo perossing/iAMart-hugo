@@ -1,13 +1,12 @@
 ---
 title: Sam Flax
-address: 1745 Peachtree
+address: 1495 Northside Drive NW
 city: Atlanta
 state: Georgia
 country: United States
 phone: 404-352-7200
-website: samflaxsouth.com
-weburl: https://www.samflax.com
+website: samflaxatlanta.com
+weburl: https://www.samflaxatlanta.com/
 ecommerce: true
 type: stores
 ---
-
