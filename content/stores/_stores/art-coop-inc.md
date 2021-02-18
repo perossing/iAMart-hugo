@@ -1,5 +1,5 @@
 ---
-title: art coop, inc
+title: art coop, inc.
 address: 150 Lincoln Square
 city: Urbana
 state: Illinois
