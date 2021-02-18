@@ -1,6 +1,6 @@
 ---
-title: Art Creations - Hamilton Place
-address: 201 Frazier Ave, Unit C
+title: Art Creations
+address: 201 Frazier Ave, Ste C
 city: Chattanooga
 state: Tennessee
 country: United States
