@@ -1,13 +1,12 @@
 ---
 title: Kama Pigments
-address: 7447 Rue Saint-hubert
+address: 7442 St-Hubert
 city: Montreal
 state: Quebec
 country: Canada
-phone: 866-972-2173
+phone: 514-272-2173
 website: kamapigment.com
-weburl: http://www.kamapigment.com/index_en.html
+weburl: https://www.kamapigment.com/?___store=en
 ecommerce: true
 type: stores
 ---
-
