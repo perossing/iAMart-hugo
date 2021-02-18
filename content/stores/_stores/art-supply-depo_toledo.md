@@ -5,8 +5,8 @@ city: Sylvania
 state: Ohio
 country: United States
 phone: 419-720-6462
-website: artsupplydepo.com/sylvania
-weburl: https://artsupplydepo.com/sylvania
+website: artsupplydepo.com
+weburl: https://artsupplydepo.com/
 ecommerce: false
 type: stores
 ---
