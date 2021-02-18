@@ -1,5 +1,5 @@
 ---
-title: KennettCopy & More
+title: Kennett Copy & More
 address: 739 W Cypress Street
 city: Kennett Square
 state: Pennsylvania
