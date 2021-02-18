@@ -1,7 +1,7 @@
 ---
-title: Kennet Copy & More
+title: KennettCopy & More
 address: 739 W Cypress Street
-city: Kennet Square
+city: Kennett Square
 state: Pennsylvania
 country: United States
 phone: 484-732-8066
