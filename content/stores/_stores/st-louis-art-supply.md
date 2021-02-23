@@ -1,7 +1,7 @@
 ---
 title: St. Louis Art Supply
 address: 4532 Olive Street
-city: St. Louiis
+city: St. Louis
 state: Missouri
 country: United States
 phone: 314-884-8345
